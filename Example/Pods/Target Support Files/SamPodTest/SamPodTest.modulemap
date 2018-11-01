@@ -1,0 +1,6 @@
+framework module SamPodTest {
+  umbrella header "SamPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
